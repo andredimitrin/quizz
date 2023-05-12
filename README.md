@@ -2,7 +2,7 @@
     <h1>Projeto Quizz do curso JavaScript do básico ao avançado</h1>
     <p>O projeto Quizz é uma aplicação web simples, desenvolvida com as tecnologias HTML5, CSS3 e JavaScript. O objetivo do projeto é permitir que os usuários possam jogar quizzes sobre diversos temas e visualizar sua pontuação no final do jogo.</p>
   </header>
-    <img src="./img/quizzz.PNG" width="460" heigth ="300"/>  
+    <img align="center" src="./img/quizzz.PNG" width="460" heigth ="300"/>  
   <section>
     <h2>Funcionalidades</h2>
     <h3>Interface Gráfica</h3>
